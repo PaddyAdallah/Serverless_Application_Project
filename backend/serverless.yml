@@ -1,7 +1,7 @@
 # TODO: Change the name of the org 
-org: newthingade
-app: serverless-udapeople
-service: serverless-udapeople
+org: paddyadallah
+app: serverless-app
+service: serverless-app
 
 plugins:
   - serverless-webpack
